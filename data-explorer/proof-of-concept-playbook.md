@@ -12,6 +12,8 @@ This article presents a high-level methodology for preparing and running an effe
 
 ## Before you begin
 
+ADDING NONSENSE HERE
+
 The playbook helps you to evaluate the use of Azure Data Explorer and is designed for scenarios that are most suitable for Azure Data Explore. Use the following scenarios to determine if Azure Data Explorer is the right solution for you before you start your POC.
 
 ### General architecture patterns scenarios
